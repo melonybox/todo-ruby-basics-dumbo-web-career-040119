@@ -23,5 +23,6 @@ def last_evaluated_value()
 end
 
 def pizza_party(item = "cheese")
-  return item
+  item
+  item
 end
