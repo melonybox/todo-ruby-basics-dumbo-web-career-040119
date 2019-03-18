@@ -23,5 +23,5 @@ def last_evaluated_value()
 end
 
 def pizza_party(item = "cheese")
-  @item
+  return item
 end
